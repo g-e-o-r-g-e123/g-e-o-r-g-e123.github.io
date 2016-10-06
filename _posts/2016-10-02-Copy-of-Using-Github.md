@@ -2,7 +2,7 @@
 title: 26.9.16-Week 2-
 layout: post
 author: george.dawson
-permalink: /copy-of-using-github/
+permalink: /26.9.16-Week 2-/
 source-id: 1gXbl9MkJipsJE-m4jSxg3V64-RIyyRWQCCaSk6FeOGg
 published: true
 ---
