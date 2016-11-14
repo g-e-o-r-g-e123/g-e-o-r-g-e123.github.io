@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $blue
-  font: 18px/1.4 $roboto;
-  color: #b23030;
+	background: $white;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helvetica;
-  color: #b23030;
+  font-family: $helveticaNeue;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: #b23030;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #253f66;
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
