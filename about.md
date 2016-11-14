@@ -8,8 +8,5 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Most of these posts will be about coding and all should be about what I do in my lessons.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
