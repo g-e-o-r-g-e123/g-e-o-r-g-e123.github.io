@@ -123,7 +123,7 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: http://feelgrafix.com/data/background/background-18.jpg;
+  background: $lightGray;
 }
 ::selection {
   color: $black;
